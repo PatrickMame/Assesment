@@ -1,0 +1,7 @@
+C:\Users\CCA023\source\repos\PAssignment.3(1-24)\PAssignment.3(1-24)\bin\Debug\PAssignment.3(1-24).exe.config
+C:\Users\CCA023\source\repos\PAssignment.3(1-24)\PAssignment.3(1-24)\bin\Debug\PAssignment.3(1-24).exe
+C:\Users\CCA023\source\repos\PAssignment.3(1-24)\PAssignment.3(1-24)\bin\Debug\PAssignment.3(1-24).pdb
+C:\Users\CCA023\source\repos\PAssignment.3(1-24)\PAssignment.3(1-24)\obj\Debug\PAssignment.3(1-24).csprojAssemblyReference.cache
+C:\Users\CCA023\source\repos\PAssignment.3(1-24)\PAssignment.3(1-24)\obj\Debug\PAssignment.3(1-24).csproj.CoreCompileInputs.cache
+C:\Users\CCA023\source\repos\PAssignment.3(1-24)\PAssignment.3(1-24)\obj\Debug\PAssignment.3(1-24).exe
+C:\Users\CCA023\source\repos\PAssignment.3(1-24)\PAssignment.3(1-24)\obj\Debug\PAssignment.3(1-24).pdb
